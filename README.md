@@ -1,9 +1,5 @@
 ### 关于我 
 
-<!--
-**Wh0ale/Wh0ale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-关于我
 
 - 🎏安全圈的小学生
 - 🌈大收藏家(收藏=学会
